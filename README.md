@@ -69,7 +69,7 @@ It will then create the folder structure indicated above and duplicate the templ
 6. run the tool and follow the on screen prompts.  
 
 # Manual Building instructions
-1. clone this repository `git clone https://github.com/Pyro57000/pentest_tool.git`
-2. cd into the nested "pentest_tool" folder `cd pentest_tool/pentest_tool`
+1. clone this repository `git clone https://github.com/Pyro57000/hackmenu.git`
+2. cd into the nested "hackmenu" folder `cd hackmenu`
 3. use cargo to build the release binary `cargo build --release`
 4. follow the same installation instructions, skipping the step where you download the release binary.
